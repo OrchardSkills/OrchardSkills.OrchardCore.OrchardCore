@@ -1,6 +1,6 @@
 # What is Orchard Core CMS and what can this modular framework do for You?
 
-## The Modular CMS Framework
+## The Modular Multi-tenant CMS Framework
 
 # [YouTube Video](https://youtu.be/GZDJfIyB4Vs)
 
