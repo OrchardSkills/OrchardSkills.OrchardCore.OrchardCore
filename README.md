@@ -1254,19 +1254,19 @@ So how does Orchard Core fit into all of this? Well, As we looked back at Micros
 
 ![Orchard-Core-021](https://user-images.githubusercontent.com/59172485/90696827-3d246f80-e23a-11ea-8dbd-02da87f9ae50.png)
 
-Here is the front page of the Orchard Gallery.
+A favorite feature was the Orchard gallary. It was the place to get third party modules and themes. Unfortunately some of these modules or themes would become out dated with new versions of the sofware. It was hard to determine if the theme or module wouldn't crash your website. Here is the front page of the Orchard Gallery.
 
 
 
 ![Orchard-Core-022](https://user-images.githubusercontent.com/59172485/90696828-3dbd0600-e23a-11ea-9230-7dd9029e32be.png)
 
-Here is an add for the Orchard media manager.
+A favorite feature was the Orchard Media Manager. Here is an add for the Orchard Media Manager.
 
 
 
 ![Orchard-Core-023](https://user-images.githubusercontent.com/59172485/90696829-3e559c80-e23a-11ea-847c-132920bdbcb8.png)
 
-Blazor Server apps are hosted on an ASP.NET Core server in ASP.NET Razor format. Remote clients act as a thin clients, meaning that the bulk of the processing load is on the server. The client's web browser downloads a small page and updates its UI over a SignalR connection. Blazor Server was released as a part of .NET Core 3.0 Blazor WebAssembly a Single-page apps that are downloaded to the client's web browser before running.
+As new technolgy arrives such as Blazor, Orchard Core may also have to adapt. Blazor Server apps are hosted on an ASP.NET Core server in ASP.NET Razor format. Remote clients act as a thin clients, meaning that the bulk of the processing load is on the server. The client's web browser downloads a small page and updates its UI over a SignalR connection. Blazor Server was released as a part of .NET Core 3.0 Blazor WebAssembly a Single-page apps that are downloaded to the client's web browser before running.
 
  The size of the download is larger than for Blazor Server, depends on the app, and the processing is entirely done on the client hardware. However, this app type enjoys rapid response time. As its name suggests, this client-side framework is written in WebAssembly, as opposed to JavaScript. The framework was released in May 2020. Microsoft plans to release Blazor PWA and Blazor Hybrid editions. Will Orchard Core utilize this technology. Who knows. It remains uncertain if the will. [Oqtane](https://github.com/oqtane/oqtane.framework) another competing Modular application framework is being developed with the Blazor WebAssembly technology.
 
@@ -1274,7 +1274,7 @@ Blazor Server apps are hosted on an ASP.NET Core server in ASP.NET Razor format.
 
 # Conclusion
 
-There are still many important pieces to add for the official release 1.0 but since the first commit back in November 19, 2014 it has come a long way. One crucial piece missing are requirements. Without requirements, how does anyone know when the software is complete. Passing tests need to be created and run successfully for all requirements. For the developers on the Orchard Core team, it has become their life's work. They are very committed individuals. Will it be successful? That will be determined by the official 1.0 release date. This release date has been pushed back several times. A key component is documentation. Without concise and complete documentation, it will be hard for new developers to adopt the framework. Another key consideration is technical debt. Over the six years of developing Orchard Core, technology has changed. Orchard Core needs to adapt and embrace new technology.
+There are still many important pieces to add for the official release 1.0 but since the first commit back in November 19, 2014 it has come a long way. One crucial piece missing are requirements. Without requirements, how does anyone know when the software is complete. Passing tests need to be created and run successfully for all requirements. For the developers on the Orchard Core team, it has become their life's work. They are very committed individuals. Will it be successful? I hope so! That will be determined by the official 1.0 release date. This release date has been pushed back several times. A key component is documentation. Without concise and complete documentation, it will be hard for new developers to adopt the framework. Another key consideration is technical debt. Over the six years of developing Orchard Core, technology has changed and techical debt may be a problem. Orchard Core needs to adapt and embrace new technology. I wish the best for Orchard Core. I want it to be successful!
 
 
 
